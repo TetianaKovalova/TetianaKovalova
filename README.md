@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm Tetiana. Hope to grow my GitHub here, one commit at a time.
+
+### Reminders to self ✨
+
+  Progress over perfection
+
+  Small commits, big results
+
+  Work hard, stay curious, be kind
+
 <!--
 **TetianaKovalova/TetianaKovalova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
